@@ -8,14 +8,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-04-18 23:06+0800\n"
+"POT-Creation-Date: 2019-04-23 11:07+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.6.0\n"
+"Generated-By: Babel 2.4.0\n"
 
 #. Label used for buttons, e.g. in dialogs
 msgctxt "action_cancel"
@@ -1286,6 +1286,12 @@ msgctxt "private_browsing_erase_done"
 msgid ""
 "Your private browsing\n"
 "history has been erased."
+msgstr ""
+
+#. Show how many trackers blocked on tracker blocked panel. In front of
+#. "Trackers blocked", show the number of blocking trackers.
+msgctxt "private_browsing_tracker_blocked"
+msgid "Trackers blocked"
 msgstr ""
 
 #. A description is shown below the switch of block trackers when opening
